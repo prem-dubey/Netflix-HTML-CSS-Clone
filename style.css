@@ -1,0 +1,161 @@
+@import url('https://fonts.cdnfonts.com/css/netflix-font');
+/* Making a Div called Everything because of giving background color  */
+.everything{
+    background-color: rgb(61, 33, 33);
+    width: 98vw;
+}
+/* nav class for giving navigation and it's property  */
+.nav{
+    display: flex;
+    align-items: center;
+}
+.photo{
+    color: red;
+    font-size: 50px;
+    margin-left: 12px;
+}
+.lang{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    border: 0.5px solid grey;
+    border-radius: 10px;
+    padding: 0px 10px;
+    transform: translateX(60vw);
+    color: white;
+    background-color: black;
+}
+.sign-in{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: black;
+    font-size: 15px;
+    border-radius: 10px;
+    padding: 2px 7px;
+    margin: 0px 5px;
+    background-color: white;
+    transform: translateX(60vw);
+}
+/* here image means the vidoe which is played  */
+.image{
+    background-image: url('https://akm-img-a-in.tosshub.com/indiatoday/images/story/202012/Netflix-New-Feature-Audio-Only_1200x768.jpeg?size=1200:675');
+    background-size: 90vw 84vh;
+    background-position: center center;
+    width: 90vw;
+    height: 60vh;
+    margin-left: 4vw;
+    border-radius: 30px;
+    border: 1px solid white;;
+}
+.InImg{
+    color: white;
+}
+.image-1{
+    font-size: 50px;
+    transform: translate(29vw,39vh);
+}
+.image-2{
+    font-size: 50px;
+    transform: translate(34vw,39vh);
+}
+.image-3{
+    font-size: 20px;
+    transform: translate(35vw,39vh);
+}
+.bet-1{
+    color: rgb(234, 222, 222);
+    transform: translateX(30vw);
+    margin: 5px;
+}
+.email{
+    color: gray;
+    font-size: large;
+    background-color: black;
+    width: 20vw;
+    height: 6vh;
+    border-radius: 20px;
+    transform: translateX(30vw);
+    border: 0.5px solid gray;
+    padding-left: 10px;
+}
+.started{
+    width: 15vw;
+    height: 6vh;
+    background-color: red;
+    transform: translateX(31vw);
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: xx-large;
+    color: white;
+}
+.bet-below{
+    display: flex;
+}
+.trending{
+    margin-left: 5vw;
+    margin-top: 10px;
+}
+.now{
+    color: white;
+    font-size: xx-large;
+    margin: 10px;
+}
+.cards{
+    display: flex;
+}
+.card{
+    margin: 0px 1vw;
+    width: 15vw;
+}
+.more{
+    margin-left: 5vw;
+    margin-top: 10px;
+}
+.reason{
+    color: white;
+    font-size: xx-large;
+    margin: 10px;
+}
+.reason-card{
+    display: flex;
+}
+.join{
+    padding-left: 10px;
+    background-color: black;
+    width: 17vw;
+    height: 11vh;
+    color: white;
+    margin: 0px 2vw;
+    border-radius: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ques{
+    padding-left: 3vw;
+    width: 80vw;
+    height: 8vh;
+    color: white;
+    background-color: black;
+    margin: 2px;
+    display: flex;
+    align-items: center;
+    border-radius: 20px;
+}
+.plus1{
+    transform: translateX(68vw); 
+}
+.plus2{
+    transform: translateX(61vw);   
+}
+.plus3{
+    transform: translateX(66vw);   
+}
+.plus4{
+    transform: translateX(67.5vw);   
+}
+.plus5{
+    transform: translateX(61.5vw);   
+}
+
+
